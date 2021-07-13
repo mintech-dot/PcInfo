@@ -29,7 +29,7 @@ My nickname is MinTech
 - Telegram: [@RaidSobhi](https://t.me/Sobhi_raid)
 - Github: [@MinTech](https://github.com/mintech-dot)
 - Youtube: [@MinTech](https://www.youtube.com/channel/UCB2-npj3BTBlO284SYBhpWA)
-- Protonmail : [@MinTech](mintech@protonmail.com)
+- Protonmail : mintech@protonmail.com
     
 ## Show your support
 
