@@ -17,7 +17,7 @@ PcInfo\bin\Debug\PcInfo.exe
 
 # License
 
-Licensed under the MIT license. See [LICENSE.md][license] for details.
+Licensed under the MIT license. See [LICENSE.md](https://github.com/mintech-dot/PcInfo/blob/main/README.md) for details.
 
 ***
 
