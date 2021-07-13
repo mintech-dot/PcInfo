@@ -15,6 +15,7 @@ It'll give you :
 * CPU Number 
 * Motherboard Serial Number 
 * MAC address 
+
 Print all the information in .txt file
 
 # Usage
