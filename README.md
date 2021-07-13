@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://i.postimg.cc/8zpwtvsb/Capture-d-cran-210.png" >
+</div>
+
+
 # PcInfo
 
 PcInfo is an free, open-source project for helping people to get some system Serial Number 
