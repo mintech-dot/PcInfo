@@ -1,18 +1,22 @@
 # PcInfo
+
 PcInfo is an free, open-source project for helping people to get some system Serial Number 
 
 ## Features
+
 It'll give you :
-*Computer Name 
-*Hard Disk Serial Number 
-*CPU Number 
-*Motherboard Serial Number 
-*MAC address 
+* Computer Name 
+* Hard Disk Serial Number 
+* CPU Number 
+* Motherboard Serial Number 
+* MAC address 
 
 # Usage
+
 PcInfo\bin\Debug\PcInfo.exe
 
 # License
+
 Licensed under the MIT license. See [LICENSE.md][license] for details.
 
 ***
