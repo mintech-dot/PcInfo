@@ -18,10 +18,6 @@ It'll give you :
 
 Print all the information in .txt file
 
-# Usage
-
-PcInfo\bin\Debug\PcInfo.exe
-
 # License
 
 Licensed under the MIT license. See [LICENSE.md](https://github.com/mintech-dot/PcInfo/blob/main/README.md) for details.
